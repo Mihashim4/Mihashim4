@@ -23,8 +23,8 @@
 ---
 
 ## 💻 Projects
-- A Cute Story For KIDS
-- PC Hardware Journey
+- [A Cute Story For KIDS](https://github.com/Mihashim4/A-Cute-Story-For-KIDS)
+- [PC Hardware Journey](https://github.com/Mihashim4/PC-Hardware-Journey)
 - Python Beginner Projects
 
 ---
