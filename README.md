@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Currently Learning
-- Python
+- Python Fullstack
 - GitHub
 - Linux
 - HTML/CSS
@@ -29,12 +29,35 @@
 
 ---
 
+## 🤖 Passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Web Technologies
+- Open Source
+
+🐧 Exploring Linux and Developer Tools
+
+📚 Learning continuously through projects and hands-on practice
+
+---
+
 ## 🎯 Goals
 - Learn AI & Software Development
 - Build Useful Projects
 - Improve Coding Skills
 
 ---
+## 🌐 Connect With Me
+
+📺 YouTube
+https://youtube.com/@mihashim4
+
+📸 Instagram
+https://www.instagram.com/mihashim4.in/
+
+📘 Facebook
+https://www.facebook.com/mihashim4.global/
 
 ### 🧰 Tech Interests
 
@@ -42,6 +65,9 @@
   <img src="https://skillicons.dev/icons?i=linux,github,html,css,python,vscode" />
 </p>
 
+
+
+"Learning today. Building tomorrow. Innovating with AI in the future."
 
 <!---
 Mihashim4/Mihashim4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
