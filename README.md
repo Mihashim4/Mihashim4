@@ -1,75 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mohamed Imran Hashim</h1>
+# Hi 👋, I'm Mohamed Imran Hashim
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Future+Developer;Linux+Explorer;PC+Hardware+Enthusiast;Learning+Web+Development" />
-</p>
+### Aspiring Full Stack Developer | Frontend Enthusiast | Content Creator
+
+I'm a passionate learner currently diving deep into **Python Full Stack Development**.  
+I love building websites and continuously improving my skills through real projects.
+
 ---
 
 ### 🚀 About Me
 
-- 🎓 Future AI & DS Student
-- 💻 Learning Web Development
-- 🐧 Linux Mint User
-- 🛠️ Interested in PC Hardware
+- 🔭 Currently working on frontend projects using **HTML, CSS, JavaScript & jQuery**
+- 🌱 Learning **Python Full Stack Development**
+- 💡 Building tribute and real-world websites
+- 🎥 Creating content on **YouTube**
+- ⚡ Fun fact: I enjoy learning by building real projects
+- 📍 Based in Marthandam, Tamil Nadu
 
 ---
 
-## 🚀 Currently Learning
-- Python Fullstack
-- GitHub
-- Linux
-- HTML/CSS
+### 🛠️ Languages & Tools
 
----
-
-## 💻 Projects
-- [A Cute Story For KIDS](https://github.com/Mihashim4/A-Cute-Story-For-KIDS)
-- [PC Hardware Journey](https://github.com/Mihashim4/PC-Hardware-Journey)
-- [Python-Full-Stack-Learning-Journey](https://github.com/Mihashim4/Python-Full-Stack-Learning-Journey_)
-
----
-
-## 🤖 Passionate about:
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Web Technologies
-- Open Source
-
-🐧 Exploring Linux and Developer Tools
-
-📚 Learning continuously through projects and hands-on practice
-
----
-
-## 🎯 Goals
-- Learn AI & Software Development
-- Build Useful Projects
-- Improve Coding Skills
-
----
-## 🌐 Connect With Me
-
-📺 YouTube
-https://youtube.com/@mihashim4
-
-📸 Instagram
-https://www.instagram.com/mihashim4.in/
-
-📘 Facebook
-https://www.facebook.com/mihashim4.global/
-
-### 🧰 Tech Interests
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,github,html,css,python,vscode" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
+---
 
+### 📈 GitHub Stats
 
-"Learning today. Building tomorrow. Innovating with AI in the future."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihashim4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihashim4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<!---
-Mihashim4/Mihashim4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihashim4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| **HASHIM Auto Parts** | Tribute website for my grandfather's old auto parts shop in Marthandam | HTML, CSS, JavaScript, jQuery |
+| **Python Full Stack Learning Journey** | My learning codes and practice projects | HTML, CSS, JavaScript, Python |
+| **PC Hardware Journey** | Understanding how a PC works by exploring hardware | Documentation |
+| **A Cute Story For Kids** | My first GitHub project - A Hungry Mouse Story | HTML |
+
+---
+
+### 📺 YouTube Channel
+
+I share my learning journey, tech content and tutorials here:  
+
+**➡️ [mihashim4](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)**
+
+---
+
+### 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mihashim4&color=blueviolet&style=flat-square)
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 **GitHub**: [Mihashim4](https://github.com/Mihashim4)
+- 📺 **YouTube**: [mihashim4](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)
+- 📍 **Location**: Marthandam, Tamil Nadu, India
+
+---
+
+### 💬 Quote
+
+> "Learning never stops. Every project is a new step forward."
+
+---
+
+### ⚡ Fun Fact
+
+I started my coding journey by building real websites instead of only watching tutorials.
+
+---
+
+⭐️ From [**Mihashim4**](https://github.com/Mihashim4)
