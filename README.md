@@ -36,8 +36,8 @@ I love building websites and continuously improving my skills through real proje
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihashim4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihashim4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mihashim4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihashim4&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
