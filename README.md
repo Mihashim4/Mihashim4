@@ -1,16 +1,22 @@
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B8BF5&height=180&section=header&text=Mohamed%20Imran%20Hashim&fontSize=42&fontColor=ffffff&fontAlign=50&desc=Python%20Full-Stack%20Learner%20%7C%20PC%20Hardware%20%7C%20Storyteller&descSize=18&descColor=ffffff" width="100%" />
 
+<br>
+
 <!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Hashim+%F0%9F%91%8B;Python+Full-Stack+Learner;PC+Hardware+Enthusiast;Storyteller+%26+YouTuber;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mihashim4&label=Profile+views&color=0e75b6&style=flat" />
   <a href="https://github.com/Mihashim4?tab=followers"><img src="https://img.shields.io/github/followers/Mihashim4?style=flat&color=0e75b6" /></a>
   <img src="https://img.shields.io/github/stars/Mihashim4?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" />
 </p>
+
+<br>
 
 ---
 
