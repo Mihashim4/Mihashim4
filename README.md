@@ -1,89 +1,105 @@
-# Hi 👋, I'm Mohamed Imran Hashim
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B8BF5&height=180&section=header&text=Imran%20Hashim&fontSize=42&fontColor=ffffff&fontAlign=50&desc=Python%20Full-Stack%20Learner%20%7C%20PC%20Hardware%20%7C%20Storyteller&descSize=18&descColor=ffffff" width="100%" />
 
-### Aspiring Full Stack Developer | Frontend Enthusiast | Content Creator
-
-I'm a passionate learner currently diving deep into **Python Full Stack Development**.  
-I love building websites and continuously improving my skills through real projects.
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on frontend projects using **HTML, CSS, JavaScript & jQuery**
-- 🌱 Learning **Python Full Stack Development**
-- 💡 Building tribute and real-world websites
-- 🎥 Creating content on **YouTube**
-- ⚡ Fun fact: I enjoy learning by building real projects
-- 📍 Based in Marthandam, Tamil Nadu
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Imran+%F0%9F%91%8B;Python+Full-Stack+Learner;PC+Hardware+Enthusiast;Storyteller+%26+YouTuber;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihashim4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=Mihashim4&label=Profile+views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Mihashim4?tab=followers"><img src="https://img.shields.io/github/followers/Mihashim4?style=flat&color=0e75b6" /></a>
+  <img src="https://img.shields.io/github/stars/Mihashim4?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+## ????? About Me
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| **HASHIM Auto Parts** | Tribute website for my grandfather's old auto parts shop in Marthandam | HTML, CSS, JavaScript, jQuery |
-| **Python Full Stack Learning Journey** | My learning codes and practice projects | HTML, CSS, JavaScript, Python |
-| **PC Hardware Journey** | Understanding how a PC works by exploring hardware | Documentation |
-| **A Cute Story For Kids** | My first GitHub project - A Hungry Mouse Story | HTML |
-
----
-
-### 📺 YouTube Channel
-
-I share my learning journey, tech content and tutorials here:  
-
-**➡️ [mihashim4](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)**
+- ?? Learning **Python Full-Stack Development**
+- ??? Curious about **PC hardware** & how computers actually work
+- ?? I write cute stories for kids � my first repo, still my favorite
+- ?? Built a tribute site for my grandfather's auto parts shop in Marthandam
+- ?? YouTuber ? [my channel](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)
+- ?? Exploring web frameworks, databases & system architecture
+- ?? Based in **Marthandam, Tamil Nadu, India**
+- ?? Started coding by building real websites � not just watching tutorials
 
 ---
 
-### 📊 Profile Views
+## ??? Tech & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mihashim4&color=blueviolet&style=flat-square)
-
----
-
-### 📫 Connect with Me
-
-- 🌐 **GitHub**: [Mihashim4](https://github.com/Mihashim4)
-- 📺 **YouTube**: [mihashim4](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)
-- 📍 **Location**: Marthandam, Tamil Nadu, India
-
----
-
-### 💬 Quote
-
-> "Learning never stops. Every project is a new step forward."
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-
-I started my coding journey by building real websites instead of only watching tutorials.
+## ?? GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mihashim4&theme=tokyonight&no-frame=true&column=4&margin-w=4" alt="trophies" />
+</p>
 
 ---
 
-⭐️ From [**Mihashim4**](https://github.com/Mihashim4)
+## ?? GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mihashim4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=Mihashim4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihashim4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+## ?? Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihashim4&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+## ?? Featured Projects
+
+| ?? Python Full-Stack Journey | ??? PC Hardware Journey | ?? A Cute Story for Kids | ?? HASHIM Auto Parts |
+|:---:|:---:|:---:|:---:|
+| Hands-on Python full-stack code & progress. | Notes on PC hardware & storage experiments. | A hungry-mouse story � my first repo. | Tribute site for my grandfather's auto parts shop. |
+| [View ?](https://github.com/Mihashim4/Python-Full-Stack-Learning-Journey) | [View ?](https://github.com/Mihashim4/PC-Hardware-Journey) | [View ?](https://github.com/Mihashim4/A-Cute-Story-For-KIDS-__My-First-GitHub-Repository__) | [View ?](https://github.com/Mihashim4/Mohamed-Hashim) |
+
+---
+
+## ?? Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mihashim4/Mihashim4/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## ?? Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
+---
+
+## ?? Connect
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/Mihashim4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B8BF5&height=100&section=footer" width="100%" />
+
+<p align="center">
+  ?? From <a href="https://github.com/Mihashim4/Mihashim4">Mihashim4/Mihashim4</a> � thanks for stopping by!
+</p>
