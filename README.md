@@ -27,7 +27,7 @@
 - ✍️ I write cute stories for kids — my first repo, still my favorite
 - 🚗 Built a tribute site for my grandfather's auto parts shop in Marthandam
 - 📺 YouTuber → [my channel](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)
-- � Exploring web frameworks, databases & system architecture
+- 🌱 Exploring web frameworks, databases & system architecture
 - 📍 Based in **Marthandam, Tamil Nadu, India**
 - 💡 Started coding by building real websites — not just watching tutorials
 
@@ -53,7 +53,7 @@
 
 ---
 
-## � Featured Projects
+## 📌 Featured Projects
 
 | 🐍 Python Full-Stack Journey | 🖥️ PC Hardware Journey | 📖 A Cute Story for Kids | 🚗 HASHIM Auto Parts |
 |:---:|:---:|:---:|:---:|
