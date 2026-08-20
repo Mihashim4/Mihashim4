@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B8BF5&height=220&section=header&text=Mohamed%20Imran%20Hashim&fontSize=42&fontColor=ff3b3b&fontAlign=50&fontAlignY=35&desc=Python%20Full-Stack%20Learner%20%7C%20PC%20Hardware%20%7C%20Storyteller&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B8BF5&height=220&section=header&text=Mohamed%20Imran%20Hashim&fontSize=42&fontColor=ff3b3b&fontAlign=50&fontAlignY=35&desc=Python%20Full-Stack%20Learner%20%7C%20PC%20Hardware%20%7C%20Storyteller&descSize=18&descColor=ffffff&descAlign=50" width="100%" />
 
 <br>
 
@@ -27,7 +27,7 @@
 - ✍️ I write cute stories for kids — my first repo, still my favorite
 - 🚗 Built a tribute site for my grandfather's auto parts shop in Marthandam
 - 📺 YouTuber → [my channel](https://www.youtube.com/channel/UC336GZZUE5UxZ3j316DpxjA)
-- 🌱 Exploring web frameworks, databases & system architecture
+- � Exploring web frameworks, databases & system architecture
 - 📍 Based in **Marthandam, Tamil Nadu, India**
 - 💡 Started coding by building real websites — not just watching tutorials
 
@@ -42,10 +42,10 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
