@@ -43,44 +43,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mihashim4&theme=tokyonight&no-frame=true&column=4&margin-w=4" alt="trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mihashim4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=Mihashim4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihashim4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihashim4&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-## 📌 Featured Projects
+## � Featured Projects
 
 | 🐍 Python Full-Stack Journey | 🖥️ PC Hardware Journey | 📖 A Cute Story for Kids | 🚗 HASHIM Auto Parts |
 |:---:|:---:|:---:|:---:|
 | Hands-on Python full-stack code & progress. | Notes on PC hardware & storage experiments. | A hungry-mouse story — my first repo. | Tribute site for my grandfather's auto parts shop. |
 | [View →](https://github.com/Mihashim4/Python-Full-Stack-Learning-Journey) | [View →](https://github.com/Mihashim4/PC-Hardware-Journey) | [View →](https://github.com/Mihashim4/A-Cute-Story-For-KIDS-__My-First-GitHub-Repository__) | [View →](https://github.com/Mihashim4/Mohamed-Hashim) |
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mihashim4/Mihashim4/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
